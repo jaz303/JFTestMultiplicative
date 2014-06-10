@@ -1,5 +1,5 @@
 {
-    "name": "JFTestMultiplier",
+    "name": "JFTestMultiplicative",
     "targets": {
         "app": {
             "type": "module"
