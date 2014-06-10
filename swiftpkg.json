@@ -1,0 +1,8 @@
+{
+    "name": "JFTestMultiplier",
+    "targets": {
+        "app": {
+            "type": "module"
+        }
+    }
+}
